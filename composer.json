@@ -1,0 +1,12 @@
+{
+    "version": "0.0.1",
+    "name": "diligent/core",
+    "type": "magento-module",
+    "authors": [
+        {
+            "name": "Diligent Commerce",
+            "email": "dev@diligentcommerce.com"
+        }
+    ],
+    "require": {}
+}
