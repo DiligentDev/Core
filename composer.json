@@ -2,6 +2,7 @@
     "version": "0.0.1",
     "name": "diligent/core",
     "type": "magento-module",
+    "license": "mit",
     "authors": [
         {
             "name": "Diligent Commerce",
